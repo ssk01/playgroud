@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+
+# playground 根目录的记录文件不提交，各子项目目录下的才提交
+/Aristotle.md
+/Socrates.md
+/discussion.md
